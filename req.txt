@@ -1,0 +1,8 @@
+streamlit
+agno
+openai
+firecrawl-py
+pydantic
+python-dotenv
+requests
+googlesearch-python
